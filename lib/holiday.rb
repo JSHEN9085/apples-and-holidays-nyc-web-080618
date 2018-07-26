@@ -55,7 +55,6 @@ def all_winter_holiday_supplies(holiday_hash)
   #   items
   # end
   # array.flatten
-  holiday_hash[:winter].value 
   
 end
 
